@@ -1,47 +1,7 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.797778,
-                    -12.1975
-                ]
-            },
-            "properties": {
-                "id": "P069258",
-                "title": "3A-Southern Afr Power Mrkt APL 1 (FY04)"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    26.3,
-                    -10.616667
-                ]
-            },
-            "properties": {
-                "id": "P069258",
-                "title": "3A-Southern Afr Power Mrkt APL 1 (FY04)"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.65,
-                    -5.65
-                ]
-            },
-            "properties": {
-                "id": "P069258",
-                "title": "3A-Southern Afr Power Mrkt APL 1 (FY04)"
-            }
-        }
-    ]
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "CID": 0,  "projectID":86334, "title":"Build a School" }, "geometry": { "type": "Point", "coordinates": [ 22.024044869918022, -0.954388324498813 ] } },
+{ "type": "Feature", "properties": { "CID": 0,  "projectID":86334, "title":"Build a School" }, "geometry": { "type": "Point", "coordinates": [ 23.123851718573285, -0.580747757010835 ] } }
+]
 }
